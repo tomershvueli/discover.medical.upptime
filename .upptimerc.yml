@@ -26,9 +26,7 @@ status-website:
   name: EBSCO Health Upptime
   introTitle: "Status of **EBSCO Health** Applications"
   introMessage: ""
-  links:
-    - rel: stylesheet
-      href: https://raw.githubusercontent.com/tomershvueli/discover.medical.upptime/master/main.css
+  css: "nav { background: #267494; color: #fff; } nav img { max-width: 150px; }"
   navbar:
     - title: Status
       href: /discover.medical.upptime

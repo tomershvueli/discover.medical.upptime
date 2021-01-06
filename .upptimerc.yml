@@ -23,7 +23,7 @@ status-website:
   # Uncomment the following line if you don't have a custom domain and add your repo name
   baseUrl: /discover.medical.upptime
   logoUrl: https://www.dynamed.com/static/media/EbscoHealth.e9c193d6.svg
-  name: EBSCO Health Applications Upptime
+  name: EBSCO Health Upptime
   introTitle: "Status of **EBSCO Health** Applications"
   introMessage: ""
   links:

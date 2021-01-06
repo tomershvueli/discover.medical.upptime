@@ -26,13 +26,14 @@ status-website:
   name: EBSCO Health Applications Upptime
   introTitle: "Status of **EBSCO Health** Applications"
   introMessage: ""
-  css: "nav { background: #267494; color: #fff;} nav img { max-width: 150px; }"
   navbar:
     - title: Status
       href: /discover.medical.upptime
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
   
+status-page:
+  css: "nav { background: #267494; color: #fff;} nav img { max-width: 150px; }"
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration

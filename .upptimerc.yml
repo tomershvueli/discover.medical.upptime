@@ -28,7 +28,7 @@ status-website:
   introMessage: ""
   links:
     - rel: stylesheet
-      href: https://raw.githubusercontent.com/tomershvueli/discover.medical.upptime/master/main.css
+      href: https://raw.githack.com/tomershvueli/discover.medical.upptime/master/main.css
   navbar:
     - title: Status
       href: /discover.medical.upptime
